@@ -1,4 +1,4 @@
-# Pruebas de Performance con JMeter — BuscaSimpsons.com
+# Pruebas de Performance con JMeter para BuscaSimpsons.com
 
 Plan de pruebas de carga y stress para [buscasimpsons.com](https://buscasimpsons.com), aplicación frontend desarrollada por mí en React.
 
