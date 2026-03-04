@@ -56,12 +56,3 @@ Plan de pruebas de carga y stress para [buscasimpsons.com](https://buscasimpsons
 - TC-003 falla porque el servidor no expone el puerto HTTP (80), lo que es correcto desde el punto de vista de seguridad.
 
 ---
-
-## Cómo ejecutar
-
-```bash
-mkdir results
-jmeter -n -t buscasimpsons_performance_test.jmx -l results/test_results.jtl -e -o results/html-report
-```
-
----
