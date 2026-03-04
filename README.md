@@ -35,16 +35,16 @@ Plan de pruebas de carga y stress para [buscasimpsons.com](https://buscasimpsons
 ## Resultados
 
 ### View Results Tree
-![View Results Tree](screenshots/results_tree.PNG)
+![View Results Tree](results_tree.PNG)
 
 ### Summary Report
-![Summary Report](screenshots/summary_report.PNG)
+![Summary Report](summary_report.PNG)
 
 ### Aggregate Report
-![Aggregate Report](screenshots/aggregate_report.PNG)
+![Aggregate Report](aggregate_report.PNG)
 
 ### Response Time Graph
-![Response Time Graph](screenshots/response_time_graph.PNG)
+![Response Time Graph](response_time_graph.PNG)
 
 ---
 
@@ -65,5 +65,3 @@ jmeter -n -t buscasimpsons_performance_test.jmx -l results/test_results.jtl -e -
 ```
 
 ---
-
-Autora: Rosa Fuentes 
